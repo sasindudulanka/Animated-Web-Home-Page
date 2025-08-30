@@ -26,7 +26,7 @@ Copy code
 ---
 
 ## 🖥️ Demo Preview
-<img width="1918" height="933" alt="Screenshot 2025-08-30 134928" src="https://github.com/user-attachments/assets/f4a7d7d9-51c8-4bf8-89e6-c2121b9729a4" />
+<img width="1919" height="935" alt="Screenshot 2025-08-30 135506" src="https://github.com/user-attachments/assets/b913765c-db20-4f19-b8a6-e8138e5dfd7e" />
 <img width="1919" height="933" alt="Screenshot 2025-08-30 133800" src="https://github.com/user-attachments/assets/2edf08db-1c80-4d1f-8f29-82d8c3e7558f" />
 
 
